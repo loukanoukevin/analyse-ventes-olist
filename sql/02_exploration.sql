@@ -53,10 +53,12 @@ ORDER BY mois;
 -- Observations :
 -- 1. Sept.-déc. 2016 : activité quasi nulle (4, 324, 0 et 1 commandes),
 --    aucune commande en novembre 2016. Probablement le lancement de la plateforme.
--- 2. Janv. 2017 à nov. 2017 : forte croissance (de 800 à 7 544 commandes/mois).
+-- 2. Janvier 2017 à novembre 2017 : forte croissance (de 800 à 7 544 commandes/mois).
 --    Pic en novembre 2017, vraisemblablement lié au Black Friday (24/11/2017).
--- 3. Janv. 2018 à août 2018 : activité stable, entre 6 000 et 7 300 commandes/mois.
--- 4. Sept.-oct. 2018 : chute à 16 puis 4 commandes. Fin de l'extraction des données,
---    pas une vraie baisse d'activité (piège n°5 du cahier des charges).
--- Décision à prendre (étape 3) : période d'analyse janv. 2017 -> août 2018.
+-- 3. Janvier 2018 à août 2018 : activité stable, entre 6 000 et 7 300 commandes/mois.
+-- 4. Septembre-octobre 2018 : chute à 16 puis 4 commandes. Fin de l'extraction des données,
+--    pas une vraie baisse d'activité .
+-- Décision à prendre (étape 3) : période d'analyse janvier 2017 à août 2018.
+
+
 
